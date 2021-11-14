@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@KDANext 
-nickiteks
-/
-lectionRwip
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-lectionRwip/main.py /
-@nickiteks
-nickiteks ltction2
-Latest commit d95a3e0 yesterday
- History
- 1 contributor
-50 lines (37 sloc)  1.16 KB
-   
 import threading
 import time
 
@@ -78,16 +48,3 @@ thread1.join()
 thread2.join()
 
 print('Finished.')
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
